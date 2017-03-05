@@ -3,7 +3,7 @@ As a part of Computer Architecture assignement I created a processor in Verilog 
 
 
 
-![vhdl](https://cloud.githubusercontent.com/assets/17220329/20946448/994e7efc-bc02-11e6-8799-1287a1946985.png)
+<img width="458" alt="full-processor-schematic" src="https://cloud.githubusercontent.com/assets/17220329/23591170/789b0ac2-01e4-11e7-8e72-11c588faf892.png">
 
 
 
